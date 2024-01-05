@@ -32,6 +32,6 @@
     "@cypress/vue": "^6.0.0",
     "@cypress/webpack-dev-server": "^3.7.2",
     "cypress": "11.2.0",
-    "postcss": "^8.4.32"
+    "postcss": "^8.4.33"
   }
 }
